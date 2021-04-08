@@ -24,6 +24,16 @@
       "name": "Kauana da costa",
       "price": "99999999999.9",
       "id": 5
+    },
+    {
+      "name": "Lapis de desenho",
+      "price": "3.50",
+      "id": 6
+    },
+    {
+      "name": "Caderno",
+      "price": "10.25",
+      "id": 7
     }
   ]
 }
