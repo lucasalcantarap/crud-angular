@@ -34,6 +34,11 @@
       "name": "Caderno",
       "price": "10.25",
       "id": 7
+    },
+    {
+      "name": "Cadeira de escritório",
+      "price": "50.00",
+      "id": 8
     }
   ]
 }
